@@ -21,6 +21,6 @@
 <img height="450" src="https://user-images.githubusercontent.com/108037819/184496355-a61166d7-c740-4915-96a8-729a8bc5fb8e.gif" />
  
  <br><br>
- <a href = "https://responsive-landing-page-joaolalmeida.netlify.app/"><img  align="rigth" width="140" src="https://img.shields.io/badge/-Visualizar-212121?style=square&logo=Netlify&logoColor=f13b12&link=http://fast-fit.netlify.app/" target="_blank"></a>
+ <a href = "https://responsive-landing-page-joaolalmeida.netlify.app/" target="_blank"><img  align="rigth" width="140" src="https://img.shields.io/badge/-Visualizar-212121?style=square&logo=Netlify&logoColor=f13b12&link=http://fast-fit.netlify.app/"></a>
  
 </div>
