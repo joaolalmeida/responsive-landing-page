@@ -10,7 +10,7 @@ body {
     margin: 0;
     background: #151517;
     font-family: 'Poppins', sans-serif;
-    overflow-x: hidden; /* esconde a barra de rolagem horizontal >>>> */
+    overflow-x: hidden; /* esconde a barra de rolagem horizontal >>>>> */
     /*overflow-y: hidden; Esconde a barra de rolagem vertical ^^^^^^^ */
 }
 
